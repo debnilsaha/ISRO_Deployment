@@ -1,0 +1,16 @@
+# --- Core Machine Learning & NLP ---
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.2.2
+
+# --- Graph Neural Network (Phase 3) ---
+torch_geometric==2.7.0
+networkx>=3.0
+pydot>=2.0.0
+
+# --- User Interface (Phase 1 & 2) ---
+streamlit>=1.30.0
+
+# --- Data Processing & Utilities ---
+pandas>=2.0.0
+tqdm>=4.66.0
